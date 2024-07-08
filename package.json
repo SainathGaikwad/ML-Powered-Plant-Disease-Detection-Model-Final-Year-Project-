@@ -1,0 +1,14 @@
+{
+  "name": "plant_disease_dataset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sainath Gaikwad",
+  "license": "ISC",
+  "description": ""
+}
